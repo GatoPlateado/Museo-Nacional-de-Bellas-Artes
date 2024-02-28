@@ -1,0 +1,102 @@
+.fondo {
+    background-image: url(img/fondo.jpg) ;
+    
+}
+
+.h6 {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:"slnt" 0;
+  
+}
+
+.card-body {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+
+  }
+
+.text-white {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+
+}
+
+.text-center {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+
+  }
+
+.card-body {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+
+  }
+
+.nav-link:hover{
+    color:#c24646 !important;
+
+}
+
+.dropdown-item{
+    color:#c24646 !important;
+
+}
+
+.rojo{
+    color:#c24646 !important;
+
+}
+    
+.caja-de-texto {
+    background-color: #83a98faf !important;
+    margin-right: 90px;
+    margin-left: 90px;
+
+}
+
+.historia1 {
+    background-color: #ffffff5e !important;
+    margin-right: 90px;
+    margin-left: 90px;
+
+}
+
+.barra-de-cierre {
+    background-color: #252525 !important;
+
+}
+
+.opinion {
+    background-color: #ffffffbe !important;
+    margin-right: 90px;
+    margin-left: 90px;
+
+}
+
+.carousel-inner {
+    background-color: #64786D !important;
+    
+}
+
+.color {
+    background-color: #83a98fd5 !important;
+    margin-right: 30px;
+    margin-left: 30px;
+
+}
